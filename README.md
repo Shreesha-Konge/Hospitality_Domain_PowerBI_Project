@@ -1,7 +1,8 @@
 # Hospitality_Domain_PowerBI_Project
 
 * Project Description :                      
-AtliQ Grands a luxury/business hotel chain,  is experiencing a decline in market share and revenue within the business and luxury categories of hotels. This decline is attributed to strategic moves made by competitors and ineffective decision-making within Atliq Grand’s management.The Managing Director of Atliq Grand aims to regain market share and revenue by implementing data-driven decisions.                                                                
+AtliQ Grands a luxury/business hotel chain,  is experiencing a decline in market share and revenue within the business and luxury categories of hotels. This decline is attributed to strategic moves made by competitors and ineffective decision-making within Atliq Grand’s management.The Managing Director of Atliq Grand aims to regain market share and revenue by implementing data-driven decisions.
+                                                                                                        
 This involves designing a dashboard that offers key insights into Atliq Grand’s business by tracking essential metrics in the hospitality domain. The objective is to pinpoint areas where Atliq Grand is losing revenue and provide actionable insights and recommendations to reclaim its market share.                                                                                             
 * Atliq Grand owns multiple 5-star hotels primarily in cities like Bengaluru, Delhi, Mumbai, and Hyderabad, boasting a total of 7 properties:                
 - Atliq Bay
