@@ -30,7 +30,7 @@ Columns:property_id, check_in_date, room_category, successful_bookings, capacity
 Contains detailed booking information.                                                                  
 Columns: booking_id, property_id, booking_date, check_in_date, check_out_date, no_guests, room_category, booking_platform, ratings_given, booking_status, revenue_generated, revenue_realized                                                                                                                             
 * Business Outcomes :                                                                                        
-1) Mumbai generates highest revenue and Delhi the least revenue during May to Jul 2022. Company need to focus on increasing the revenue in Delhi.                            
+1) Mumbai generates highest revenue and Delhi the least revenue during May to July . Company need to focus on increasing the revenue in Delhi.                            
 2) The occupancy rate is higher during weekends across all cities, months and booking platforms. Leverage this insight to increase revenue generated during weekends.              
 3) 70% of the bookings are checked out while 5% of booking don’t show up across all cities and booking platforms which means 75% of bookings generate revenue for AtliQ hotels. Identify and analyze the reasons for cancellations and try to reduce them.                                                                 
 * Conclusion :                                                                                                                       
