@@ -44,6 +44,8 @@ Columns: booking_id, property_id, booking_date, check_in_date, check_out_date, n
 2) Relevant filters along with tooltips and interactions was provided in the dashboard.                                            
 3) This dashboard can be used for both high-level and in-depth analysis of KPIs across various dimensions.                                                            
 
+![image](https://github.com/user-attachments/assets/8f6f58cc-e8d9-48f2-adcd-a9db3d07469e)
+
 
 
 
