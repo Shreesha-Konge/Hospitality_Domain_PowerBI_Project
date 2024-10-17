@@ -1,4 +1,4 @@
-# Hospitality_Domain_PowerBI_Project
+# Revenue Insights in Hospitality Domain PowerBI Project
 
 * Project Description :
 AtliQ Grands a luxury/business hotel chain,  is experiencing a decline in market share and revenue within the business and luxury categories of hotels. This decline is attributed to strategic moves made by competitors and ineffective decision-making within Atliq Grand’s management.The Managing Director of Atliq Grand aims to regain market share and revenue by implementing data-driven decisions.
